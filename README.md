@@ -1,1 +1,4 @@
-I’ve added some links already and will be adding to it over-time. Please feel free to add to it. And if you want to, write a short description about the website under the title so people know what it is.
+# Main repository
+
+## Commits
+if you wanna add something to the repository you can go into the SCRIPTS folder and add a new folder with a fitting title. Add all scripts and documentation into the folder. If you want to you can add a Readme.md file with a description.
